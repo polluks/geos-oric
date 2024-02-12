@@ -1,5 +1,5 @@
 
-# Go to [README-Atari](README-Atari.md) first!
+# Go to [README-Oric](README-Oric.md) first!
 
 # GEOS Source Code
 
